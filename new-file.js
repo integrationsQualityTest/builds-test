@@ -2,4 +2,4 @@ function sum (a, b) {
   return a+b;
 }
 
-sum(0,1);
+sum(1,1);
